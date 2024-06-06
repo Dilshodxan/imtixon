@@ -27,7 +27,6 @@
 }
 .pos-fexid {
     position: fixed;
-    margin: 2% auto;
 }
 .text-c {
     text-align: center;
@@ -37,6 +36,9 @@
 }
 
 /* height vh */
+.vh-10 {
+    height: 10vh;
+}
 .vh-60 {
     height: 60vh;
 }
@@ -45,6 +47,11 @@
 }
 .vh-90 {
     height: 90vh;
+}
+
+/* height % */
+.h-100 {
+    height: 100%;
 }
 
 /* cols */
